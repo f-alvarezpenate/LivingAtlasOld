@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../static/login.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+    <form>
+        <h1 class="signUp_title">Sign Up</h1>
+        <!-- 2 column grid layout with text inputs for the first and last names -->
+        <div class="row mb-4">
+            <div class="col">
+            <div class="form-outline">
+                <input type="text" id="first-name" name="first-name" class="form-control" required/>
+                <label class="form-label" for="first-name">First name</label>
+            </div>
+            </div>
+            <div class="col">
+            <div class="form-outline">
+                <input type="text" id="last-name" name="last-name" class="form-control" required/>
+                <label class="form-label" for="last-name">Last name</label>
+            </div>
+            </div>
+        </div>
+
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <input type="email" id="email" name="email" class="form-control" required/>
+            <label class="form-label" for="email">Email address</label>
+        </div>
+
+        <!-- Password input -->
+        <div class="form-outline mb-4">
+            <input type="password" id="password" name="password" class="form-control" required/>
+            <label class="form-label" for="password">Password</label>
+        </div>
+
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-primary btn-block mb-4" id="submit_button">Sign up</button>
+
+        <div class="col">
+            <!-- Password reset link -->
+            <a class="forgot_pw" href="login.html">Return to Login page </a>
+        </div>
+
+        <!-- Scripts -->
+        <!-- <script src="register.js"></script> -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.js"></script>
+    </form>
+</body>
+</html>

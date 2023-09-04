@@ -1,0 +1,213 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Pullman, WA",
+          "description": "No toxics in Pullman",
+          "category": "Toxics"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.1542,
+            46.7319
+          ],
+          "type": "Point"
+        },
+        "id": "06289f631b5595a24b4fd4171ce0ab9c"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Lewiston, ID",
+          "description": "Water used for irrigation.",
+          "category": "Irrigation"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.0012,
+            46.4004
+          ],
+          "type": "Point"
+        },
+        "id": "30b97ea0714056d4a84f1aa7e2a09f4a"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Seattle, WA",
+          "description": "Temperature in Seattle is 78 degrees.",
+          "category": "Temperature"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.3321,
+            47.6062
+          ],
+          "type": "Point"
+        },
+        "id": "41228734cff4b6d6f08aba2eb2549f5e"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Moscow, ID",
+          "description": "Fecal coliform found in water..",
+          "category": "Fecal Coliform"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.0002,
+            46.7324
+          ],
+          "type": "Point"
+        },
+        "id": "60bbf4ae9b085b2cb84e736336ec95e8"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Pasco, WA",
+          "description": "Columbia River streamflow is 95,800 cfs.",
+          "category": "Streamflow"
+        },
+        "geometry": {
+          "coordinates": [
+            -119.0922,
+            46.2305
+          ],
+          "type": "Point"
+        },
+        "id": "7e52e3c6338c9b4ba1dcb98874dcfa63"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Moses Lake, WA",
+          "description": "Precipitation is at 2%.",
+          "category": "Precipitation"
+        },
+        "geometry": {
+          "coordinates": [
+            -119.2781,
+            47.1301
+          ],
+          "type": "Point"
+        },
+        "id": "9e34e57aa0af3681b233f122ae55c0ea"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Kennewick, WA",
+          "description": "Calcium levels are normal.",
+          "category": "Calcium"
+        },
+        "geometry": {
+          "coordinates": [
+            -119.1199,
+            46.2087
+          ],
+          "type": "Point"
+        },
+        "id": "a679e5d718bd3257cd506b5470280004"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Portland, OR",
+          "description": "Dissolved oxygen quantity is 6 mg/L.",
+          "category": "Dissolved Oxygen"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.6784,
+            45.5152
+          ],
+          "type": "Point"
+        },
+        "id": "afbd8e67114494bf6bf03b922284f84a"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Spokane, WA",
+          "description": "Source of drinking water.",
+          "category": "Drinking"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.426,
+            47.6588
+          ],
+          "type": "Point"
+        },
+        "id": "ce06f39cbcb23d4dbcf4d69930c14f07"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Richland, WA",
+          "description": "Chloride levels are normal.",
+          "category": "Chloride"
+        },
+        "geometry": {
+          "coordinates": [
+            -119.2752,
+            46.2804
+          ],
+          "type": "Point"
+        },
+        "id": "ef7d90bda62ea9bcdd7ef696cbccea8c"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Pendleton, OR",
+          "description": "Drought is not a concern.",
+          "category": "Drought Index"
+        },
+        "geometry": {
+          "coordinates": [
+            -118.7886,
+            45.6721
+          ],
+          "type": "Point"
+        },
+        "id": "f0fb8d492c705088e3691a33179df2bc"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Union Town, WA",
+          "description": "Reservoir is at flood storage capacity.",
+          "category": "Reservoir Volume"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.0877,
+            46.5393
+          ],
+          "type": "Point"
+        },
+        "id": "fbd716d5899599efc461400498294241"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Pullman, WA",
+          "description": "Sediment in Pullman in the form of clay.",
+          "category": "Sediment"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.1894,
+            46.7494
+          ],
+          "type": "Point"
+        },
+        "id": "fc190a0511bc942d8e5ea9ff42f5023f"
+      }
+    ],
+    "type": "FeatureCollection"
+  }

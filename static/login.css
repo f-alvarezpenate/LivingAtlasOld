@@ -1,0 +1,37 @@
+body{
+    /* --color-primary: #000000;
+    --color-primary-dark: #000000;
+    --color-secondary: #cccccc;
+    --color-error: #000000;
+    --color-success: #000000;
+    --boarder-radius: 6px; */
+    /* margin: 0; */
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
+
+.login_title{
+    font-size: 55px;
+    text-align: center;
+    color: green;
+}
+
+#submit_button{
+    font-size: 20px;
+    background-color: green;
+}
+
+.signUp_title{ 
+    font-size: 55px;
+    text-align: center;
+    color: green;
+}
+
+#submit_button{
+    font-size: 20px;
+    background-color: green;
+}

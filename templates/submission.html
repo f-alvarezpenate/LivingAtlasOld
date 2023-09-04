@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submission Form</title>
+    <!-- Third party style. -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- Custom style sheet -->
+    <link rel="stylesheet" href="../static/submission.css">
+</head>
+<body>
+    <header class="bg-dark p-2">
+        <div class="container">
+            <h1 class="text-light">Living Atlas Prototype</h1>
+        </div>
+    </header>
+    
+    
+    <div class="center-all">
+        <div class="center">
+            <p><b>Add data details:</b></p>
+        </div>
+        <form class="center">
+            Title:<br> <input type="title" id="title" name="name">
+            <br>
+            Description:<br> <input type="text" id="description" name="name">
+            <br>
+            Category:<br> <input type="text" id="category" name="name">
+            <br>
+            Longitude:<br> <input type="text" id="longitude" name="name">
+            <br>
+            Latitude:<br> <input type="text" id="latitude" name="name">
+            
+        </form>
+        <div class = "center">
+            <button class="btn btn-primary" type="button" onclick="addFeature()">Submit</button>
+        </div>
+    </div>
+
+    <!-- Scripts for files used in this page. -->
+    <script type="text/javascript" src="../static/submission.js"></script>
+</body>
+</html>
